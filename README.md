@@ -24,7 +24,7 @@
 ## 电子版本
 
 - GitHub：<https://github.com/Pi3o14?tab=repositories>
-- ResearchGate：<https://doi.org/10.13140/RG.2.2.20784.47365>
+- ResearchGate：<https://doi.org/10.13140/RG.2.2.18699.45608>
 
 ## 建议引用
 
